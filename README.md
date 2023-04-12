@@ -29,7 +29,7 @@ I'm a remote angular developer based in Ghana. I have a passion for frontend dev
     kofiahendev@gmail.com
     https://davidkofiahensacke.wixsite.com/davidsackey
     https://www.linkedin.com/in/david-ka-sackey/
-    @DavidKASackey
+    https://twitter.com/DavidKASackey
 
 💬 Fun fact:
     
