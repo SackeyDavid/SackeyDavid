@@ -33,7 +33,7 @@ I'm a remote angular developer based in Ghana. I have a passion for frontend dev
 
 💬 Fun fact:
     
-    I run a facebook group called People of Kasoa with 1.8K members and a youtube channel called @techwithdav
+    I run a facebook group called Kasoa-Buy-Sell-Connect with 2K members and a youtube channel called @techwithdav
 
 📊 GitHub Stats:
 
