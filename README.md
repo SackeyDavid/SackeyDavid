@@ -6,11 +6,11 @@ I’m passionate about solving real-world problems through clean UI, efficient a
 ---
 
 ## 💻 Technologies I Work With
-- **Frontend:** Angular, Ionic, TypeScript, RxJS, HTML, SCSS  
-- **Backend & Services:** Node.js, Firebase, REST APIs  
+- **Frontend:** Angular, React, NextJS, Ionic, TypeScript, RxJS, HTML, SCSS  
+- **Backend & Services:** Node.js, .NET, Express JS, Firebase, REST APIs  
 - **AI & Automation:** MCP Servers, EOD MCP automation, Vapi (TTS/STT), n8n workflows  
 - **Tools & DevOps:** Git, GitHub Actions, Jest, Karma, CI/CD pipelines  
-- **Other frameworks:** Laravel, Java (past experience)
+- **Other frameworks:** Laravel, Java 
 
 ---
 
