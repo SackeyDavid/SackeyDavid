@@ -41,7 +41,7 @@ I’m passionate about solving real-world problems through clean UI, efficient a
 
 ## 📫 How to Reach Me
 - Email: **kofiahendev@gmail.com**  
-- Portfolio: https://davidkofiahensacke.wixsite.com/davidsackey  
+- Portfolio: [https://bio.site/KofiAhen](https://bio.site/KofiAhen)  
 - LinkedIn: https://www.linkedin.com/in/david-ka-sackey/  
 - Twitter: https://twitter.com/DavidKASackey  
 
