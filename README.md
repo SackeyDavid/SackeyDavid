@@ -1,47 +1,61 @@
-<!--- 
-👋 Hi, I’m @SackeyDavid
-- 👀 I’m interested in frontend development...
-- 💻 Technologies I work with include Angular
-- 🌱 I’m currently learning react, elixir and Go...
-- 💞️ I’m looking to collaborate on angular frontend projects...
-- 📫 You can reach me via kofiahendev@gmail.com... 
---->
-👋 Hello, I'm David Sackey!
+👋 Hello, I'm **David Sackey**!
 
-I'm a remote angular developer based in Ghana. I have a passion for frontend development, contributing to society and solving problems, and I'm always eager to learn new things.
+I'm a Frontend Engineer based in Ghana, specializing in **Angular**, **Ionic**, and building scalable, high-performance web applications.  
+I’m passionate about solving real-world problems through clean UI, efficient architecture, and automation tools that make engineering teams more productive.
 
-💻 Technologies I work with:
+---
 
-    Angular
-    Laravel
-    Java
+## 💻 Technologies I Work With
+- **Frontend:** Angular, Ionic, TypeScript, RxJS, HTML, SCSS  
+- **Backend & Services:** Node.js, Firebase, REST APIs  
+- **AI & Automation:** MCP Servers, EOD MCP automation, Vapi (TTS/STT), n8n workflows  
+- **Tools & DevOps:** Git, GitHub Actions, Jest, Karma, CI/CD pipelines  
+- **Other frameworks:** Laravel, Java (past experience)
 
-🌱 I'm currently learning:
+---
 
-    React
-    Go
-    Elixir
+## 🚀 Notable Projects & Experience
+- **Frontend Work:** Built Javascript/Typescript modules, multi-tenant dashboards, reusable UI libraries, and AI-powered assistant interfaces.  
+- **End-of-Day MCP Server:** Designed a Node/Express MCP pipeline that automates commit summaries and Slack delivery for engineering teams.  
+- **Voice AI Development:** Integrated **TTS/STT with Vapi**, enabling conversational agent capabilities and voice-driven workflows.  
+- **Mobile & Delivery Systems:** Created 3 full online grocery/delivery apps during COVID—customer, rider, and store-owner apps using Angular + Ionic.  
+- **Automation & Workflows:** Built advanced integrations using **n8n** for notifications, data processing, and AI augmentation.
 
-💞️ I’m looking to collaborate on angular frontend projects
+---
 
-📫 How to reach me:
+## 🌱 Currently Learning & Exploring
+- Advanced Angular performance
+- AI agent pipelines & voice interfaces  
+- Micro-frontend architecture  
+- Scalable automation with MCP, n8n, and Vapi
 
-    kofiahendev@gmail.com
-    https://davidkofiahensacke.wixsite.com/davidsackey
-    https://www.linkedin.com/in/david-ka-sackey/
-    https://twitter.com/DavidKASackey
+---
 
-💬 Fun fact:
-    
-    I run a facebook group called Kasoa-Buy-Sell-Connect with 2K members and a youtube channel called @techwithdav
+## 🤝 Open to Collaborate On
+- Angular & Ionic frontend projects  
+- AI-driven tools, automation systems, or MCP server integrations  
+- Developer productivity tools  
+- Voice applications using Vapi
 
-📊 GitHub Stats:
+---
 
+## 📫 How to Reach Me
+- Email: **kofiahendev@gmail.com**  
+- Portfolio: https://davidkofiahensacke.wixsite.com/davidsackey  
+- LinkedIn: https://www.linkedin.com/in/david-ka-sackey/  
+- Twitter: https://twitter.com/DavidKASackey  
+
+---
+
+## 💬 Fun Fact
+I run a Facebook community (**Kasoa-Buy-Sell-Connect**, 2K members) and a YouTube channel called **@techwithdav**.
+
+---
+
+## 📊 GitHub Stats
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=SackeyDavid)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-Thanks for checking out my profile!
-<!---
-SackeyDavid/SackeyDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by!  
+Feel free to explore my repos or reach out if you'd like to build something awesome together 🚀
